@@ -19,8 +19,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Abort
-created: "2018-08-22"
-modified: "2018-08-22"
+created: "2018-08-24"
+modified: "2018-08-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/abort/master/_listings/aws-workdocs/apis.md
 specificationVersion: "0.14"
 apis:
